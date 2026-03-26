@@ -8,6 +8,7 @@
 - HTC Vive
 
 ## 项目截图
+> 3D模式画面示例，VR模式因设备归还，暂无截图
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/51199ece-247f-4da0-9fa4-3558de790abe" />
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/2a7750de-6656-4aed-bb46-b9694175131a" />
